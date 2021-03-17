@@ -31,6 +31,5 @@ func (c *cat) eat(str string) {
 }
 
 func main() {
-	var c1, c2 cat
-	fmt.Println(c1, c2)
+
 }
